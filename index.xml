@@ -1,14 +1,618 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>JD the ocean geochemist</title>
     <link>https://JianghuiDu.github.io/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on JD the ocean geochemist</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; {year} Jianghui Du</copyright>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 -0700</lastBuildDate>
     
 	    <atom:link href="https://JianghuiDu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publication</title>
+      <link>https://JianghuiDu.github.io/publication/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deglacial North Pacific circulation</title>
+      <link>https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;The circulation of the Pacific Ocean since the Last Glacial Maximum (LGM) remains poorly known, because of the lack of high resolution marine sediment records and carbonate materials that most circulation proxies depend on. We solve these problems in this project by generating authigenic neodymium isotope records, which are not dependent on carbonate archives, from two of the highest resolution (~250 yr) marine cores from the Gulf of Alaska (Figure 1). We found that the glacial circulation of the deep Pacific was sluggish, likely contributed to the glacial drawdown of atmospheric CO2. During the deglaciation, especially in the Northern Hemisphere stadial events (i.e., Heinrich Stadial 1 and Younger Dryas), the abyssal circulation in the Pacific strenghthend, drived by vigorous Southern Ocean overturning (Figure 2). We suggest that this strenghthening of abyssal Pacific circulation can explain the ~80 ppm rise of atmospheric CO2 during the deglaciation.&lt;/p&gt;
+
+&lt;p&gt;This study was recently published in &lt;strong&gt;Nature Geoscience&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&#34;https://JianghuiDu.github.io/publication/content/publication/du-flushing-2018/&#34; target=&#34;_blank&#34;&gt;Flushing of the deep Pacific Ocean and the deglacial rise of atmospheric CO2 concentrations&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;./fig1.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 1. Gulf of Alaska and general circulation in the Pacific &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;./fig4.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 2. Inferred Pacific circulation in the past &lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-figs&#34; href=&#34;https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/figs/fig1.jpg&#34; data-caption=&#34;Figure 1. Gulf of Alaska and general circulation in the Pacific&#34;&gt;
+  &lt;img src=&#34;https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/figs/fig1_hud4f7b19b242d8314c108f6d00702e87d_829019_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-figs&#34; href=&#34;https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/figs/fig4.jpg&#34; data-caption=&#34;Figure 3. Inferred Pacific circulation in the past&#34;&gt;
+  &lt;img src=&#34;https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/figs/fig4_hu9f1cb3be2246ceb1ea4cae362afe99b9_523870_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sedimentary sources of the Rare Earth Elements and Neodymium isotopes</title>
+      <link>https://JianghuiDu.github.io/project/rare-earth-elements/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/project/rare-earth-elements/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;This study was  published in &lt;strong&gt;Frontiers in Marine Science&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&#34;https://JianghuiDu.github.io/publication/content/publication/haley-impact-2017/&#34; target=&#34;_blank&#34;&gt;The Impact of Benthic Processes on Rare Earth Element and Neodymium Isotope Distributions in the Oceans&lt;/a&gt;&lt;/p&gt;
+
+&lt;!---
+&lt;figure&gt;
+  &lt;img src=&#34;fig1.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 1. Gulf of Alaska and general circulation in the Pacific &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;fig4.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 2. Inferred Pacific circulation in the past &lt;/figcaption&gt;
+  &lt;/figure&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neodymium isotope composition of authigenic phases in the Gulf of Alaska</title>
+      <link>https://JianghuiDu.github.io/project/neodymium-isotope-composition-of-authigenic-phases-in-the-gulf-of-alaska/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/project/neodymium-isotope-composition-of-authigenic-phases-in-the-gulf-of-alaska/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;The neodymium isotope composition of authigenic phases from marine sediments is used as a proxy to study ocean circulation in the past. However, extracting Nd from authigenic phases remains challenging, and recent studies show that that authigenic phases may not simply record bottom water Nd isotope composition. In this study we investigate systematically how various experimental parameters affect the extraction and design a method that is capable of avoiding signficant detrital contamination using a suite of core-top sediment samples from the Gulf of Alaska. We show that the extraced Nd using this method is indeed sourced from authigenic Fe-Mn phases, but the resulting isotope composition differs from that of local bottom water. We further show that this difference was attributed to in situ contribution of likely radiogenic volcanic materials to pore water and authigenic Nd in sediments. We therefore propose a new model to explain how authigenic phases aquire their Nd isotope signatures, and an alterantive frameword of using authigenic Nd isotopes to study ocean circulation.&lt;/p&gt;
+
+&lt;p&gt;This study was  published in &lt;strong&gt;Geochimica et Cosmochimica Acta&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&#34;https://JianghuiDu.github.io/publication/content/publication/du-neodymium-2016/&#34; target=&#34;_blank&#34;&gt;Neodymium isotopes in authigenic phases, bottom waters and detrital sediments in the Gulf of Alaska and their implications for paleo-circulation reconstruction&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;fig1.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 1. Gulf of Alaska and general circulation in the Pacific &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;fig2.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 2. Core-top leaching results &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;fig3.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 3. Lab contamination versus in situ alternation &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;fig4.jpg&#34; alt=&#34;&#34; width=&#34;400&#34;&gt;
+  &lt;figcaption&gt;Figure 4. How authigenic phases aquire their Nd isotopic signatures &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://JianghuiDu.github.io/research/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flushing of the deep Pacific Ocean and the deglacial rise of atmospheric CO2 concentrations</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/du-flushing-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/du-flushing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Benthic Processes on Rare Earth Element and Neodymium Isotope Distributions in the Oceans</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/haley-impact-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/haley-impact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global deepwater circulation between 2.4 and 1.7 Ma and its connection to the onset of Northern Hemisphere Glaciation</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/du-global-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/du-global-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neodymium isotopes in authigenic phases, bottom waters and detrital sediments in the Gulf of Alaska and their implications for paleo-circulation reconstruction</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/du-neodymium-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/du-neodymium-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variations in upper water structure during MIS 3 from the western South China Sea</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/du-variations-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 -0800</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/du-variations-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://JianghuiDu.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/cv/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+	&lt;title&gt;Jianghui Du - Curriculum Vitae&lt;/title&gt;
+
+	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width&#34; /&gt;
+	&lt;meta name=&#34;description&#34; content=&#34;The Curriculum Vitae of Jianghui Du.&#34; /&gt;
+	&lt;meta charset=&#34;UTF-8&#34;&gt;
+
+	&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../css/cv.css&#34;&gt;
+	&lt;link href=&#39;https://fonts.googleapis.com/css?family=Rokkitt:regular,bold|Lato:regular,black&#39; rel=&#39;stylesheet&#39;
+		type=&#39;text/css&#39;&gt;
+
+	&lt;!--[if lt IE 9]&gt;
+&lt;script src=&#34;//html5shiv.googlecode.com/svn/trunk/html5.js&#34;&gt;&lt;/script&gt;
+&lt;![endif]--&gt;
+&lt;/head&gt;
+
+&lt;body id=&#34;top&#34;&gt;
+	&lt;div id=&#34;cv&#34; class=&#34;instaFade&#34;&gt;
+		&lt;div class=&#34;mainDetails&#34;&gt;
+			&lt;div id=&#34;name&#34;&gt;
+				&lt;h1 class=&#34;quickFade delayOne&#34;&gt;Jianghui Du&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div id=&#34;contactDetails&#34; class=&#34;quickFade delayTwo&#34;&gt;
+				&lt;ul&gt;
+					&lt;li&gt;e: &lt;a href=&#34;mailto:dujia@oregonstate.edu&#34; target=&#34;_blank&#34;&gt;dujia@oregonstate.edu&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;w: &lt;a href=&#34;https://JianghuiDu.github.io&#34;&gt;JianghuiDu.github.io&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;br /&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div id=&#34;mainArea&#34; class=&#34;quickFade delayThree&#34;&gt;
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Education&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+						&lt;span class=&#34;contentHeader&#34;&gt;PhD in Oceanography&lt;/span&gt;
+						&lt;span class=&#34;contentDate&#34;&gt;(June 2019 expected)&lt;/span&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Oregon State University&lt;/p&gt;
+						&lt;!-- &lt;p class=&#34;subDetails&#34;&gt;Dissertation: Evidence-Based Methods in Studies of Biology and Data Analysis&lt;/p&gt; --&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Advisor: Alan Mix &amp; Brian Haley&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;br /&gt;
+					&lt;article&gt;
+						&lt;span class=&#34;contentHeader&#34;&gt;M.S. in Geology&lt;/span&gt;
+						&lt;span class=&#34;contentDate&#34;&gt;(July 2011)&lt;/span&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Peking University&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;span class=&#34;contentHeader&#34;&gt;B.S. in Geology&lt;/span&gt;
+						&lt;span class=&#34;contentDate&#34;&gt;(July 2009)&lt;/span&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Peking University&lt;/p&gt;
+					&lt;/article&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+				&lt;br /&gt;
+			&lt;/section&gt;
+
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Research Experience&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+						&lt;span class=&#34;contentHeader&#34;&gt;Research Assistant&lt;/span&gt;
+						&lt;span class=&#34;contentDate&#34;&gt;(July 2014 ~ present)&lt;/span&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;College of Earth, Ocean and Atmospheric Sciences&lt;/p&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Oregon State University, Corvallis, OR, USA&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;br /&gt;
+					&lt;article&gt;
+						&lt;span class=&#34;contentHeader&#34;&gt;Research Assistant&lt;/span&gt;
+						&lt;span class=&#34;contentDate&#34;&gt;(2013~2014, 2010 ~2011, 2007~2009)&lt;/span&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Schoold of Earth and Space Sciences&lt;/p&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Peking University, Beijing, China&lt;/p&gt;
+					&lt;/article&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Research Interests&lt;/h1&gt;
+				&lt;/div&gt;
+			
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+					&lt;p&gt;&lt;b&gt;Ocean bigeochemistry&lt;/b&gt;, understanding the distributions of trace elements and isotopes (Nd isotopes, REEs,
+						Fe, redox sensitive metals etc.) in the ocean, focusing on the role of sedimentary sources and early diagenesis
+					&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;p&gt;&lt;b&gt;Plio-Pleistocene Paleoceanography&lt;/b&gt;, reconstructing past ocean circulation and its relation to
+					the climate system using sediment archives (foraminiferal proxies, authigenic and lithogenic sediment geochemistry)
+					&lt;/p&gt;
+					&lt;/article&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Publications&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;b&gt;&lt;em&gt;Published&lt;/em&gt;&lt;/b&gt;
+					&lt;ol reversed&gt;
+						&lt;li&gt;&lt;b&gt;Du, J.&lt;/b&gt;, Haley, B. A., Mix, A. C., Walczak, M. H. &amp; Praetorius, S. K. Flushing of the deep Pacific
+							Ocean and the deglacial rise of atmospheric CO2 concentrations. Nat. Geosci. 1 (2018). https://doi.org/10.1038/s41561-018-0205-6
+						&lt;/li&gt;
+						&lt;li&gt;Haley, B. A., &lt;b&gt;Du, J.&lt;/b&gt;, Abbott, A. N. &amp; McManus, J. The Impact of Benthic Processes on Rare Earth
+							Element and Neodymium Isotope Distributions in the Oceans. Front. Mar. Sci. 4, (2017). https://doi.org/10.3389/fmars.2017.00426
+						&lt;/li&gt;
+						&lt;li&gt;&lt;b&gt;Du, J.&lt;/b&gt;, Haley, B. A. &amp; Mix, A. C. Neodymium isotopes in authigenic phases, bottom waters
+							and detrital sediments in the Gulf of Alaska and their implications for paleo-circulation reconstruction. Geochim.
+							Cosmochim. Acta 193, 14–35 (2016). https://doi.org/10.1016/j.gca.2016.08.005
+						&lt;/li&gt;
+						&lt;li&gt;&lt;b&gt;Du, J.&lt;/b&gt;, Huang, B. &amp; Zhou, L. Global deepwater circulation between 2.4 and 1.7 Ma and its
+							connection to the onset of Northern Hemisphere Glaciation. Paleoceanography 31, (2016). https://doi.org/10.1002/2015PA002906
+						&lt;/li&gt;
+						&lt;li&gt;&lt;b&gt;Du, J.&lt;/b&gt; &amp; Huang, B. Variations in upper water structure during MIS 3 from the western South China
+							Sea. Chin. Sci. Bull. 55, 301–307 (2010). https://doi.org/10.1007/s11434-009-0388-8
+						&lt;/li&gt;
+						&lt;!--&lt;ul&gt;
+							&lt;li&gt;&lt;em&gt;Press:&lt;/em&gt;&lt;br&gt;
+								Preprint was featured in the &lt;a
+									href=&#34;https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01101.x&#34;&gt;February
+									2018 issue&lt;/a&gt; of Significance Magazine.
+							&lt;/li&gt;
+						&lt;/ul&gt;--&gt;
+					&lt;/ol&gt;
+					&lt;br /&gt;
+					&lt;b&gt;&lt;em&gt;In Progress&lt;/em&gt;&lt;/b&gt;
+					&lt;ol reversed&gt;
+						&lt;li&gt;&lt;b&gt;Du, J.&lt;/b&gt;, Haley, B. A., Mix, A. C. Evolution of Global Overturning Circulation since the Last Glacial Maximum.
+						Submitted. (2019).&lt;/li&gt;
+					&lt;/ol&gt;
+					&lt;br /&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Presentations&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							The influence of the source function on seawater Rare Earth Element patterns.
+							(Poster), AGU fall meeting (December 2018), Washington D.C.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							&lt;em&gt;In situ&lt;/em&gt; Marine Silicate Weathering as a Source of Fe to the Oxic Ocean 
+							(Poster), Boston, Goldschmidt Conference, 2018.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							Flushing of the deep Pacific drove deglacial rise of atmospheric CO2 (Talk), Portland, Ocean Sciences
+							Meeting, 2018.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							Covariation of deglacial North Pacific intermediate water ventilation and atmospheric CO2 evidenced by
+							authigenic neodymium isotope composition (Talk), San Francisco, AGU fall meeting, 2016.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							The Ocean Biogeochemistry of Neodymium and its Isotopes (Invited talk), Peking University, Beijing,
+							Symposium of seawater trace elements and isotopes, 2016.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							The relationship of εNd among authigenic phase, detrital sediment and bottom water (Poster), Yokohama,
+							Goldschmidt Conference, 2016.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							Extracting authigenic εNd signals from Gulf of Alaska sediments (Poster), San Francisco, AGU fall meeting,
+							2015.
+						&lt;/p&gt;
+					&lt;/article&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+							Pacific deep water circulation in the early Pleistocene (Poster), Shanghai, The 3rd Conference on Earth System Science,
+							2014.
+						&lt;/p&gt;
+					&lt;/article&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Teaching&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+						&lt;b&gt;Oregon State University&lt;/b&gt;
+						&lt;i&gt;Teaching Assistant&lt;/i&gt;
+						&lt;br /&gt;
+						&lt;ul&gt;
+							&lt;li&gt;The Biogeochemical Earth (Graduate level, Winter 2018, Fall 2017)&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/article&gt;
+					&lt;br /&gt;
+					&lt;article&gt;
+						&lt;b&gt;Peking University&lt;/b&gt;
+						&lt;i&gt;Teaching Assistant&lt;/i&gt;
+						&lt;br /&gt;
+						&lt;ul&gt;
+							&lt;li&gt;Paleontology (Undergraduate level, Fall 2010)&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/article&gt;
+					&lt;br /&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Synergistic Activities&lt;/h1&gt;
+				&lt;/div&gt;
+			
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;p&gt;
+						Reviewer for: &lt;em&gt;Geochimica et Cosmochimica; Chemical Geology; Geochemistry, Geophysics, Geosystems;
+							Frontiers in Marine Science.&lt;/em&gt;
+					&lt;/p&gt;
+					&lt;p&gt;
+						Participation in GEOTRACES-PAGES Synthesis workshop: “Trace Element and Isotope Proxies in
+						Paleoceanography”, Aix-en-Provence, December 2018.
+					&lt;/p&gt;
+					&lt;p&gt;
+						Participation in GeoChronR workshop, Flagstaff, August 2017.
+					&lt;/p&gt;
+					&lt;p&gt;
+						Participation in The Oceanography Society Mentoring program, 2017~2018.
+					&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Field Experience&lt;/h1&gt;
+				&lt;/div&gt;
+			
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;p&gt;
+						&lt;b&gt;R/V Oceanus. Cruise OC1706B&lt;/b&gt;. Retrieving sediment cores from the Oregon margin to reconstruct the history
+						of Missoula flood during the last deglaciation. Summer 2017.
+
+					&lt;/p&gt;
+					&lt;p&gt;
+						&lt;b&gt;R/V Elakha&lt;/b&gt;. Observations of hydrography, chlorophyll, and zooplankton populations in an Oregon nearshore
+						and estuarine system during upwelling conditions. Spring 2015.
+					&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;/section&gt;
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Awards&lt;/h1&gt;
+				&lt;/div&gt;
+			
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+						&lt;p&gt;
+						GSC Travel Reimbursement Award, OSU, 2018; Zhangyun Scholarship, Peking University, 2010~2011; Academic Scholarship for
+						Graduate students, Peking University, First Prize, 2009~2011; National Inspirational Scholarship, 2008~2009; Mao Yu Gang
+						Grant for undergraduate research, 2007~2009; Honor for Academic Excellence, Peking University, 2006~2008; Geology
+						Fellowship, First honor, 2005~2009.	
+						&lt;/p&gt;
+					&lt;/article&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+				&lt;br /&gt;
+			&lt;/section&gt;
+
+&lt;!--			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Awards&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;article&gt;
+						&lt;span class=&#34;contentHeader&#34;&gt;Helen Abbey Award&lt;/span&gt;
+						&lt;span class=&#34;contentDate&#34;&gt;May 2017&lt;/span&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Johns Hopkins Bloomberg School of Public Health&lt;/p&gt;
+						&lt;p class=&#34;subDetails&#34;&gt;Excellence in teaching (&lt;a
+								href=&#34;http://www.jhsph.edu/departments/biostatistics/about-us/honors-and-awards/index.html#helen-abbey&#34;&gt;website&lt;/a&gt;)
+						&lt;/p&gt;
+					&lt;/article&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+				&lt;br /&gt;
+			&lt;/section&gt;
+--&gt;
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Professional memberships&lt;/h1&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;ul&gt;
+						&lt;li&gt;Geochemical Society&lt;/li&gt;
+						&lt;li&gt;The Oceanography Society&lt;/li&gt;
+						&lt;li&gt;American Geophysical Union&lt;/li&gt;
+						&lt;li&gt;European Association of Geochemistry&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+				&lt;br /&gt;
+			&lt;/section&gt;
+			&lt;section&gt;
+				&lt;div class=&#34;sectionTitle&#34;&gt;
+					&lt;h1&gt;Outreach&lt;/h1&gt;
+				&lt;/div&gt;
+			
+				&lt;div class=&#34;sectionContent&#34;&gt;
+					&lt;ul&gt;
+						&lt;li&gt;QuatTea seminar Co-coordinator, OSU, 2017~2018.&lt;/li&gt;
+						&lt;li&gt;da Vinci Days, Corvallis. Exhibitor, Ocean history through marine sediment cores, 2017, 2018.&lt;/li&gt;
+						&lt;li&gt;20th National Ocean Sciences Bowl, Corvallis, Volunteer, 2017.&lt;/li&gt;
+						&lt;li&gt;Oregon Salmon Bowl, Corvallis, Volunteer, February 2017.&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+				&lt;br /&gt;
+			&lt;/section&gt;
+
+			&lt;!-- &lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Technical Skills&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;b&gt;Programming languages&lt;/b&gt;
+				&lt;ul class=&#34;keySkills&#34;&gt;
+					&lt;li&gt;R&lt;/li&gt;
+					&lt;li&gt;Stata&lt;/li&gt;
+					&lt;li&gt;Python&lt;/li&gt;
+					&lt;li&gt;Java&lt;/li&gt;
+					&lt;li&gt;Matlab&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;b&gt;Application development&lt;/b&gt;
+				&lt;ul class=&#34;keySkills&#34;&gt;
+					&lt;li&gt;Shiny&lt;/li&gt;
+					&lt;li&gt;HTML&lt;/li&gt;
+					&lt;li&gt;CSS&lt;/li&gt;
+					&lt;li&gt;Javascript&lt;/li&gt;
+					&lt;li&gt;d3.js&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;b&gt;Other&lt;/b&gt;
+				&lt;ul class=&#34;keySkills&#34;&gt;
+					&lt;li&gt;Git&lt;/li&gt;
+					&lt;li&gt;RMarkdown&lt;/li&gt;
+					&lt;li&gt;Adobe Photoshop&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt; --&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+&lt;!-- http://www.thomashardy.me.uk/free-responsive-html-css3-cv-template --&gt;</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on JD the ocean geochemist</title>
+    <link>https://JianghuiDu.github.io/project/</link>
+    <description>Recent content in Projects on JD the ocean geochemist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Jianghui Du</copyright>
+    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://JianghuiDu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deglacial North Pacific circulation</title>
+      <link>https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/</guid>
+      <description>Summary The circulation of the Pacific Ocean since the Last Glacial Maximum (LGM) remains poorly known, because of the lack of high resolution marine sediment records and carbonate materials that most circulation proxies depend on. We solve these problems in this project by generating authigenic neodymium isotope records, which are not dependent on carbonate archives, from two of the highest resolution (~250 yr) marine cores from the Gulf of Alaska (Figure 1).</description>
+    </item>
+    
+    <item>
+      <title>Sedimentary sources of the Rare Earth Elements and Neodymium isotopes</title>
+      <link>https://JianghuiDu.github.io/project/rare-earth-elements/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/project/rare-earth-elements/</guid>
+      <description>Investigate how sedimentary sources affect the budgets of Rare Earth Element and Neodymium isotopes in the ocean.</description>
+    </item>
+    
+    <item>
+      <title>Neodymium isotope composition of authigenic phases in the Gulf of Alaska</title>
+      <link>https://JianghuiDu.github.io/project/neodymium-isotope-composition-of-authigenic-phases-in-the-gulf-of-alaska/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/project/neodymium-isotope-composition-of-authigenic-phases-in-the-gulf-of-alaska/</guid>
+      <description>Develope methods to extract neodymium from authigenic Fe-Mn oxyhydroxides from sediments in the Gulf of Alaska, and investigate how the authigenic phases aquire their unique neodymium isotope signatures.</description>
+    </item>
+    
+  </channel>
+</rss>
