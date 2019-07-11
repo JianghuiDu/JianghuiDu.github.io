@@ -25,14 +25,14 @@ p {
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #ffffff  ;/* color of body*/
+	background: #e2e5de   ;/* color of body*/
 	margin: 30px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #ccc;
-	background: #ffffff  ; /* color of header*/
+	background: #e2e5de   ; /* color of header*/
 }
 
 #name h1 {
