@@ -126,10 +126,6 @@ section:last-child {
 .sectionContent {
 	float: right;
 	width: 72.5%;
-	font-family: 'IM Fell DW Pica', Helvetica, Arial, sans-serif;
-	font-style: normal;
-	font-size: 1.0em;
-	color: #000000;
 }
 
 .sectionTitle h1 {

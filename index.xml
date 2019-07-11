@@ -258,20 +258,20 @@
 					&lt;article&gt;
 						&lt;span class=&#34;contentHeader&#34;&gt;Ph.D. in Oceanography&lt;/span&gt;
 						&lt;span class=&#34;contentDate&#34;&gt;(June 2019)&lt;/span&gt;
-						&lt;p class=&#34;subDetails&#34;&gt;Oregon State University&lt;/p&gt;
+						&lt;span class=&#34;subDetails&#34;&gt;Oregon State University&lt;/span&gt;
 						&lt;!-- &lt;p class=&#34;subDetails&#34;&gt;Dissertation: Evidence-Based Methods in Studies of Biology and Data Analysis&lt;/p&gt; --&gt;
-						&lt;p class=&#34;subDetails&#34;&gt;Advisor: Alan Mix &amp; Brian Haley&lt;/p&gt;
+						&lt;li class=&#34;subDetails&#34;&gt;Advisor: Alan Mix &amp; Brian Haley&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;br /&gt;
 					&lt;article&gt;
 						&lt;span class=&#34;contentHeader&#34;&gt;M.S. in Geology&lt;/span&gt;
 						&lt;span class=&#34;contentDate&#34;&gt;(July 2011)&lt;/span&gt;
-						&lt;p class=&#34;subDetails&#34;&gt;Peking University&lt;/p&gt;
+						&lt;li class=&#34;subDetails&#34;&gt;Peking University&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
 						&lt;span class=&#34;contentHeader&#34;&gt;B.S. in Geology&lt;/span&gt;
 						&lt;span class=&#34;contentDate&#34;&gt;(July 2009)&lt;/span&gt;
-						&lt;p class=&#34;subDetails&#34;&gt;Peking University&lt;/p&gt;
+						&lt;li class=&#34;subDetails&#34;&gt;Peking University&lt;/li&gt;
 					&lt;/article&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
@@ -307,13 +307,13 @@
 			
 				&lt;div class=&#34;sectionContent&#34;&gt;
 					&lt;article&gt;
-					&lt;p&gt;&lt;b&gt;Ocean bigeochemistry&lt;/b&gt;, understanding the distributions of trace elements and isotopes (Nd isotopes, REEs,
+					&lt;li&gt;&lt;b&gt;Ocean bigeochemistry&lt;/b&gt;, understanding the distributions of trace elements and isotopes (Nd isotopes, REEs,
 						Fe, redox sensitive metals etc.) in the ocean, focusing on the role of sedimentary sources and early diagenesis
-					&lt;/p&gt;
+					&lt;/li&gt;
 					&lt;/article&gt;
-					&lt;p&gt;&lt;b&gt;Plio-Pleistocene Paleoceanography&lt;/b&gt;, reconstructing past ocean circulation and its relation to
+					&lt;li&gt;&lt;b&gt;Plio-Pleistocene Paleoceanography&lt;/b&gt;, reconstructing past ocean circulation and its relation to
 					the climate system using sediment archives (foraminiferal proxies, authigenic and lithogenic sediment geochemistry)
-					&lt;/p&gt;
+					&lt;/li&gt;
 					&lt;/article&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
@@ -375,46 +375,46 @@
 						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 							&lt;em&gt;In situ&lt;/em&gt; Marine Silicate Weathering as a Source of Fe to the Oxic Ocean 
 							(Poster), Boston, Goldschmidt Conference, 2018.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 							Flushing of the deep Pacific drove deglacial rise of atmospheric CO2 (Talk), Portland, Ocean Sciences
 							Meeting, 2018.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 							Covariation of deglacial North Pacific intermediate water ventilation and atmospheric CO2 evidenced by
 							authigenic neodymium isotope composition (Talk), San Francisco, AGU fall meeting, 2016.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 							The Ocean Biogeochemistry of Neodymium and its Isotopes (Invited talk), Peking University, Beijing,
 							Symposium of seawater trace elements and isotopes, 2016.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 							The relationship of εNd among authigenic phase, detrital sediment and bottom water (Poster), Yokohama,
 							Goldschmidt Conference, 2016.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;lip&gt;
 							Extracting authigenic εNd signals from Gulf of Alaska sediments (Poster), San Francisco, AGU fall meeting,
 							2015.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 							Pacific deep water circulation in the early Pleistocene (Poster), Shanghai, The 3rd Conference on Earth System Science,
 							2014.
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
@@ -455,20 +455,20 @@
 				&lt;/div&gt;
 			
 				&lt;div class=&#34;sectionContent&#34;&gt;
-					&lt;p&gt;
+					&lt;li&gt;
 						Reviewer for: &lt;em&gt;Geochimica et Cosmochimica; Chemical Geology; Paleoceanography and Paleoclimatology; Geochemistry, Geophysics, Geosystems;
 							Frontiers in Marine Science.&lt;/em&gt;
-					&lt;/p&gt;
-					&lt;p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
 						Participation in GEOTRACES-PAGES Synthesis workshop: “Trace Element and Isotope Proxies in
 						Paleoceanography”, Aix-en-Provence, December 2018.
-					&lt;/p&gt;
-					&lt;p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
 						Participation in GeoChronR workshop, Flagstaff, August 2017.
-					&lt;/p&gt;
-					&lt;p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
 						Participation in The Oceanography Society Mentoring program, 2017~2018.
-					&lt;/p&gt;
+					&lt;/li&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
 			&lt;/section&gt;
@@ -478,15 +478,15 @@
 				&lt;/div&gt;
 			
 				&lt;div class=&#34;sectionContent&#34;&gt;
-					&lt;p&gt;
+					&lt;li&gt;
 						&lt;b&gt;R/V Oceanus. Cruise OC1706B&lt;/b&gt;. Retrieving sediment cores from the Oregon margin to reconstruct the history
 						of Missoula flood during the last deglaciation. Summer 2017.
 
-					&lt;/p&gt;
-					&lt;p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
 						&lt;b&gt;R/V Elakha&lt;/b&gt;. Observations of hydrography, chlorophyll, and zooplankton populations in an Oregon nearshore
 						and estuarine system during upwelling conditions. Spring 2015.
-					&lt;/p&gt;
+					&lt;/li&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
 			&lt;/section&gt;
@@ -497,12 +497,12 @@
 			
 				&lt;div class=&#34;sectionContent&#34;&gt;
 					&lt;article&gt;
-						&lt;p&gt;
+						&lt;li&gt;
 						GSC Travel Reimbursement Award, OSU, 2018; Zhangyun Scholarship, Peking University, 2010~2011; Academic Scholarship for
 						Graduate students, Peking University, First Prize, 2009~2011; National Inspirational Scholarship, 2008~2009; Mao Yu Gang
 						Grant for undergraduate research, 2007~2009; Honor for Academic Excellence, Peking University, 2006~2008; Geology
 						Fellowship, First honor, 2005~2009.	
-						&lt;/p&gt;
+						&lt;/li&gt;
 					&lt;/article&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
