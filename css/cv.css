@@ -25,7 +25,7 @@ p {
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #ccebc5;/* color of body*/
+	background: #f1e2cc;/* color of body*/
 	margin: 30px auto;
 }
 
@@ -38,14 +38,14 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
 	font-size: 2em;
 	margin-left: 2px;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 #name h3 {
 	font-size: 2.5em;
