@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #181818; font-family: 'Roboto', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -25,14 +25,14 @@ p {
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #f1e2cc;/* color of body*/
+	background: #FFFFFF;/* color of body*/
 	margin: 30px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
-	background: #f7fcfd; /* color of header*/
+	border-bottom: 2px solid #000000;
+	background: #FFFFFF; /* color of header*/
 }
 
 #name h1 {
@@ -100,7 +100,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #cf8a05;
+	color: #000000;
 }
 
 
@@ -128,14 +128,14 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-style: italic;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+	font-style: normal;
 	font-size: 1.5em;
-	color: #e31a1c;
+	color: #000000;
 }
 
 .sectionContent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
