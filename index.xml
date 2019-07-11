@@ -307,11 +307,13 @@
 			
 				&lt;div class=&#34;sectionContent&#34;&gt;
 					&lt;article&gt;
-					&lt;li&gt;&lt;b&gt;Ocean bigeochemistry&lt;/b&gt;, understanding the distributions of trace elements and isotopes (Nd isotopes, REEs,
+						&lt;span class=&#34;contentHeader&#34;&gt;Ocean Biogeochemistry&lt;/span&gt;
+						&lt;li class=&#34;subDetails&#34;&gt;Understanding the distributions of trace elements and isotopes (Nd isotopes, REEs,
 						Fe, redox sensitive metals etc.) in the ocean, focusing on the role of sedimentary sources and early diagenesis
 					&lt;/li&gt;
 					&lt;/article&gt;
-					&lt;li&gt;&lt;b&gt;Plio-Pleistocene Paleoceanography&lt;/b&gt;, reconstructing past ocean circulation and its relation to
+					&lt;span class=&#34;contentHeader&#34;&gt;Plio-Pleistocene Paleoceanography&lt;/span&gt;, 
+						&lt;li class=&#34;subDetails&#34;&gt;Reconstructing past ocean circulation and its relation to
 					the climate system using sediment archives (foraminiferal proxies, authigenic and lithogenic sediment geochemistry)
 					&lt;/li&gt;
 					&lt;/article&gt;
@@ -368,54 +370,40 @@
 				&lt;/div&gt;
 
 				&lt;div class=&#34;sectionContent&#34;&gt;
-					&lt;article&gt;
+					&lt;ol reversed&gt;
 						&lt;li&gt;
 							The influence of the source function on seawater Rare Earth Element patterns.
 							(Poster), AGU fall meeting (December 2018), Washington D.C.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;li&gt;
 							&lt;em&gt;In situ&lt;/em&gt; Marine Silicate Weathering as a Source of Fe to the Oxic Ocean 
 							(Poster), Boston, Goldschmidt Conference, 2018.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;li&gt;
 							Flushing of the deep Pacific drove deglacial rise of atmospheric CO2 (Talk), Portland, Ocean Sciences
 							Meeting, 2018.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;li&gt;
 							Covariation of deglacial North Pacific intermediate water ventilation and atmospheric CO2 evidenced by
 							authigenic neodymium isotope composition (Talk), San Francisco, AGU fall meeting, 2016.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;li&gt;
 							The Ocean Biogeochemistry of Neodymium and its Isotopes (Invited talk), Peking University, Beijing,
 							Symposium of seawater trace elements and isotopes, 2016.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;li&gt;
 							The relationship of εNd among authigenic phase, detrital sediment and bottom water (Poster), Yokohama,
 							Goldschmidt Conference, 2016.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;lip&gt;
 							Extracting authigenic εNd signals from Gulf of Alaska sediments (Poster), San Francisco, AGU fall meeting,
 							2015.
 						&lt;/li&gt;
-					&lt;/article&gt;
-					&lt;article&gt;
 						&lt;li&gt;
 							Pacific deep water circulation in the early Pleistocene (Poster), Shanghai, The 3rd Conference on Earth System Science,
 							2014.
 						&lt;/li&gt;
-					&lt;/article&gt;
+					&lt;/ol&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
 			&lt;/section&gt;
@@ -455,18 +443,21 @@
 				&lt;/div&gt;
 			
 				&lt;div class=&#34;sectionContent&#34;&gt;
-					&lt;li&gt;
-						Reviewer for: &lt;em&gt;Geochimica et Cosmochimica; Chemical Geology; Paleoceanography and Paleoclimatology; Geochemistry, Geophysics, Geosystems;
+					
+					&lt;span class=&#34;contentHeader&#34;&gt;Reviewer&lt;/span&gt;
+						&lt;li class=&#34;subDetails&#34;&gt;&lt;em&gt;Geochimica et Cosmochimica; Chemical Geology; Paleoceanography and Paleoclimatology; Geochemistry, Geophysics, Geosystems;
 							Frontiers in Marine Science.&lt;/em&gt;
 					&lt;/li&gt;
-					&lt;li&gt;
-						Participation in GEOTRACES-PAGES Synthesis workshop: “Trace Element and Isotope Proxies in
+					&lt;span class=&#34;contentHeader&#34;&gt;Workshops&lt;/span&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;
+						GEOTRACES-PAGES Synthesis workshop: “Trace Element and Isotope Proxies in
 						Paleoceanography”, Aix-en-Provence, December 2018.
 					&lt;/li&gt;
-					&lt;li&gt;
-						Participation in GeoChronR workshop, Flagstaff, August 2017.
+					&lt;li class=&#34;subDetails&#34;&gt;
+						GeoChronR workshop, Flagstaff, August 2017.
 					&lt;/li&gt;
-					&lt;li&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Societies&lt;/span&gt;
+					&lt;li class=&#34;subDetails&#34;&gt;
 						Participation in The Oceanography Society Mentoring program, 2017~2018.
 					&lt;/li&gt;
 				&lt;/div&gt;
