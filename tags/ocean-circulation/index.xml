@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Jianghui Du</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://JianghuiDu.github.io/tags/ocean-circulation/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,24 @@
       
       <guid>https://JianghuiDu.github.io/project/deglacial-north-pacific-circulation/</guid>
       <description>Summary The circulation of the Pacific Ocean since the Last Glacial Maximum (LGM) remains poorly known, because of the lack of high resolution marine sediment records and carbonate materials that most circulation proxies depend on. We solve these problems in this project by generating authigenic neodymium isotope records, which are not dependent on carbonate archives, from two of the highest resolution (~250 yr) marine cores from the Gulf of Alaska (Figure 1).</description>
+    </item>
+    
+    <item>
+      <title>Evolution of the Global Overturning Circulation since the Last Glacial Maximum based on marine authigenic neodymium isotopes</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/du-qsr-2020/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/du-qsr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flushing of the deep Pacific Ocean and the deglacial rise of atmospheric CO2 concentrations</title>
+      <link>https://JianghuiDu.github.io/publication/content/publication/du-ngeo-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://JianghuiDu.github.io/publication/content/publication/du-ngeo-2018/</guid>
+      <description></description>
     </item>
     
   </channel>
