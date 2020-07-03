@@ -68,13 +68,6 @@
   
     <url>
     
-      <loc>https://JianghuiDu.github.io/tags/ocean-circulation/</loc>
-      <lastmod>2020-06-25T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://JianghuiDu.github.io/tags/paleoceanography/</loc>
       <lastmod>2020-06-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -117,6 +110,13 @@
     <url>
     
       <loc>https://JianghuiDu.github.io/tags/ocean-biogeochemical-cycles/</loc>
+      <lastmod>2020-06-25T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://JianghuiDu.github.io/tags/ocean-circulation/</loc>
       <lastmod>2020-06-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -173,6 +173,12 @@
     
       <loc>https://JianghuiDu.github.io/publication/content/publication/praetorius-sa-2020/</loc>
       <lastmod>2020-02-26T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://JianghuiDu.github.io/cv/</loc>
+      <lastmod>2019-04-14T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -396,12 +402,6 @@
     <url>
     
       <loc>https://JianghuiDu.github.io/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://JianghuiDu.github.io/cv/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
