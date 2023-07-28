@@ -4,6 +4,7 @@ services:
   jekyll_custom:
     build: .
     image: al-folio-local-docker
+<<<<<<< HEAD
     container_name: al-folio-local-website
     command: bash -c "
       rm -f Gemfile.lock
@@ -12,3 +13,9 @@ services:
       - 8080:8080
     volumes:
       - .:/srv/jekyll
+=======
+    ports:
+      - 8080:8080
+    volumes:
+      - .:/srv/jekyll
+>>>>>>> 347ea053 (Initial commit)

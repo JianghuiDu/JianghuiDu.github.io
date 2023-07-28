@@ -16,6 +16,10 @@ permissions:
 
 jobs:
   deploy:
+<<<<<<< HEAD
+=======
+    # available images: https://github.com/actions/runner-images#available-images
+>>>>>>> 347ea053 (Initial commit)
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
@@ -23,11 +27,21 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
+<<<<<<< HEAD
         ruby-version: '3.2.1'
         bundler-cache: true
     - name: Install and Build 🔧
       run: |
         npm install -g mermaid.cli
+=======
+        ruby-version: '3.2.2'
+        bundler-cache: true
+    - name: Install and Build 🔧
+      run: |
+        pip3 install --upgrade jupyter
+        npm install -g mermaid.cli
+        export JEKYLL_ENV=production
+>>>>>>> 347ea053 (Initial commit)
         bundle exec jekyll build
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
