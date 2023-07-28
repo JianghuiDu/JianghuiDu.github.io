@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://geopetro.ethz.ch/'>Institute of Geochemistry and Petrology, ETH Zurich</a>.
 
 profile:
   align: right
