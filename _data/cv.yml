@@ -37,7 +37,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoc in Ocean geochemistry.
+    - title: Postdoc in Ocean geochemistry
       institution: Institute of Geochemistry and Petrology, ETH Zurich
       year: 2019 - 2023
       # description:
@@ -98,6 +98,10 @@
       items:
         - Geochemical proxies
         - Quaternary and Cenozoic climate
+    - title: Ocean models
+      items:
+        - Ocean biogeochemical models
+        - Sediment diagenetic models
 
 # - title: Other Interests
 #   type: list
