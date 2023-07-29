@@ -11,37 +11,37 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. in Ocean Ecology and Biogeochemistry
       institution: Oregon State University
       year: 2014 - 2019
-      description:
-        - Ocean Ecology and Biogeochemistry
+      # description:
+      #   - Ocean Ecology and Biogeochemistry
         # - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: M.S.
+    - title: M.S. in Geology
       institution: Peking University
       year: 2009 - 2011
-      description:
-        - Geology
+      # description:
+      #   - Geology
         # - Description 2.
-    - title: B.S.
+    - title: B.S. in Geology
       institution: Peking University
       year: 2005 - 2009
-      description:
-        - Geology
+      # description:
+      #   - Geology
         # - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoc
+    - title: Postdoc in Ocean geochemistry.
       institution: Institute of Geochemistry and Petrology, ETH Zurich
       year: 2019 - 2023
-      description:
-        - Ocean geochemistry.
+      # description:
+      #   - Ocean geochemistry.
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -73,7 +73,6 @@
     - title: Marie Skłodowska-Curie Individual Fellowship
       year: 2021 - now
       description: 191,149 Euro
-  contents:
     - title: ETH Postdoc Fellowship
       year: 2019 - 2020
       description: 230,800 Swiss Franc
