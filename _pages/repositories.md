@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: false
+title: resources
+description: Code and data created by my research.
+nav: true
 nav_order: 3
 ---
-
+<!-- 
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -14,10 +14,10 @@ nav_order: 3
   {% for user in site.data.repositories.github_users %}
     {% include repository/repo_user.html username=user %}
   {% endfor %}
-</div>
+</div> -->
 
----
-
+<!-- --- -->
+<!-- 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
   {% if site.data.repositories.github_users.size > 1 %}
@@ -31,9 +31,9 @@ nav_order: 3
 
 {% endfor %}
 {% endif %}
-{% endif %}
+{% endif %} -->
 
-## GitHub Repositories
+## Code
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -42,3 +42,7 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+## Data
+<a href="https://zenodo.org/record/7006610" title=""><img src="https://blog.zenodo.org/static/img/logos/zenodo-gradient-1000.png" width="100%" style="max-width: 850px;" alt=""></a><br>Provided by <a href="https://zenodo.org" target="_blank">Zenodo</a>
+
