@@ -1,8 +1,8 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+  <div class="row">
+      <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -25,10 +25,16 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        <div class="row">
+          <div class="col">
+              {%- assign venue_style = site.data.venues["tag"].color | prepend: 'style="background-color:' | append: '"' -%}            
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}>{{entry.tag}}</abbr>
+          </div>
+        </div>
         </div>
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-8">
+        <div id="{{entry.key}}" class="col-sm-9">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
@@ -119,14 +125,14 @@
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
-        {%- if entry.month -%}
+        <!-- {%- if entry.month -%}
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
-        {%- endif -%}
+        {%- endif -%} -->
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
@@ -186,9 +192,9 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
-          {% if site.badges %}
-          <div class="badges">
-            {%- if site.badges.altmetric_badge %}
+          <!-- {% if site.badges %} -->
+          <!-- <div class="badges"> -->
+            <!-- {%- if site.badges.altmetric_badge %}
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
               {% if entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
@@ -202,8 +208,8 @@
                 data-isbn="{{ entry.isbn }}"
               {% endif %}
               ></span>
-            {%- endif %}
-            {%- if site.badges.dimensions_badge %}
+            {%- endif %} -->
+            <!-- {%- if site.badges.dimensions_badge %}
               <span class="__dimensions_badge_embed__"
               {% if entry.doi %}
                 data-doi="{{ entry.doi }}"
@@ -213,9 +219,9 @@
                 data-id="{{ entry.dimensions }}"
               {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
-            {%- endif %}
-          </div>
-          {%- endif %}
+            {%- endif %} -->
+          <!-- </div> -->
+          <!-- {%- endif %} -->
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
@@ -232,3 +238,6 @@
           {%- endif %}
         </div>
       </div>
+
+
+

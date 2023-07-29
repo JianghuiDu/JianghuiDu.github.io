@@ -41,7 +41,13 @@ body.sticky-bottom-footer {
  ******************************************************************************/
 
 // TODO: redefine publications layout.
+.container .input-group {
+  align-items: center;
+}
 
+.container .input-group label {
+  margin: 0;
+}
 
 /*****************************************************************************
 * Projects
