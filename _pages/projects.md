@@ -3,9 +3,9 @@ layout: page
 title: research
 permalink: /research/
 # description: A growing collection of your cool projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
+nav: true
+nav_order: 3
+# display_categories: [work, fun]
 horizontal: true
 ---
 
@@ -20,7 +20,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-1">
+    <div class="row">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
