@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Ocean biogeochemistry
+description: Understanding the oceanic budgets and fluxes of trace elements and isotopes
+# img: assets/img/12.jpg
 importance: 1
 category: work
 <<<<<<< HEAD
