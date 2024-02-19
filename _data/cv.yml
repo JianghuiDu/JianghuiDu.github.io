@@ -37,7 +37,10 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoc in Ocean geochemistry
+    - title: Assistant Professor
+      institution: School of Earth and Space Sciences, Peking University
+      year: 2024 - now
+    - title: Postdoc
       institution: Institute of Geochemistry and Petrology, ETH Zurich
       year: 2019 - 2023
       # description:
