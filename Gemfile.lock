@@ -17,6 +17,7 @@ GEM
       zeitwerk (~> 2.3)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
+    base64 (0.3.0)
     bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
       racc (~> 1.7)
@@ -52,6 +53,13 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     execjs (2.10.0)
+    faraday (2.8.1)
+      base64
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-net_http (3.0.2)
+    faraday-retry (2.3.2)
+      faraday (~> 2.0)
     fast-stemmer (1.0.2)
     feedjira (3.2.1)
       loofah (>= 2.3.1)
@@ -173,6 +181,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.1)
     rouge (3.30.0)
+    ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sass-embedded (1.58.3)
       google-protobuf (~> 3.21)
@@ -200,6 +209,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   css_parser
+  faraday-retry (~> 2.3)
   feedjira
   httparty
   jekyll
@@ -222,6 +232,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  webrick (~> 1.9)
 
 BUNDLED WITH
    1.17.2
