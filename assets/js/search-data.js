@@ -405,16 +405,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-m-changing-my-website-using-a-new-theme",
+          title: 'I’m changing my website using a new theme!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-paper-describing-sedtrace-a-tool-for-generating-and-runing-marine-sediment-diagenetic-models-has-been-published-in-geoscientific-model-development-the-open-source-code-can-be-found-on-zenodo",
+          title: 'My paper describing SedTrace, a tool for generating and runing marine sediment diagenetic...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-have-recented-moved-to-beijing-china-as-an-assistant-professor-in-the-school-of-earth-and-space-sciences-at-peking-university-starting-from-febrary-2024",
+          title: 'I have recented moved to Beijing, China, as an Assistant Professor in the...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-selected-as-a-co-chair-of-the-inaugural-geotraces-early-career-scientist-ecs-committee-if-you-are-an-early-career-scientist-or-a-student-interested-in-geotraces-related-sciences-please-don-t-hesitate-to-talk-to-me",
+          title: 'I have been selected as a co-chair of the inaugural GEOTRACES Early Career...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-the-bottom-up-perspective-of-the-ocean-elemental-cycles-has-recently-been-published-on-nature-with-an-news-amp-amp-views-report",
+          title: 'Our paper on the “bottom-up” perspective of the ocean elemental cycles has recently...',
           description: "",
           section: "News",},{id: "projects-ocean-and-sediment-biogeochemistry",
           title: 'Ocean and Sediment Biogeochemistry',
