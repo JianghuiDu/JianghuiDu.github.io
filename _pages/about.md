@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, School of Earth and Space Sciences, Peking University.
+subtitle: 
 
 profile:
   align: right
