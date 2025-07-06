@@ -1,11 +1,11 @@
 "ChemOcean":
-  # url: https://aapt.scitation.org/journal/ajp
-  color: "#009e73"
+  # url: https://jianghuidu.github.io/projects/1_project/
+  color: "#d55e00"
 
 "PaleoOcean":
-  # url: https://journals.aps.org/
-    color: "#0072b2"
+  # url: https://jianghuidu.github.io/projects/2_project/
+    color: "#f0e442"
 
-"tag":
+"Model":
   # url: https://aapt.scitation.org/journal/ajp
   color: "#cc79a7"
